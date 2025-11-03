@@ -1,0 +1,13 @@
+#variable for radius as r
+r = 0.9
+pi = 3.142
+# Area of a circle => Aoc
+Aoc = pi*r**2
+print(Aoc)
+#variable for base as b
+b = 6
+#variable for height as h
+h = 10
+# area of a triangle as A_t
+A_t =1/2*b*h
+print(A_t)
